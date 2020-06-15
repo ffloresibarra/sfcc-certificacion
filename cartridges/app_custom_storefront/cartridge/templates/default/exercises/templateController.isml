@@ -1,0 +1,74 @@
+<isdecorate template="common/layout/page">
+	<div class="row match-height pt-3">
+		<div class="col-md-6 col-sm-12">
+			<div class="card text-white bg-primary text-center" style="height: 311.302px;">
+				<div class="card-content">
+					<div class="card-body pt-3">
+						<img src="https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/app-assets/images/elements/01.png" alt="element 01" width="190" class="float-left">
+						<h4 class="card-title mt-3">Brand Minute</h4>
+						<p class="card-text">Donut toffee candy brownie soufflé macaroon.</p>
+						<button class="btn btn-primary btn-darken-3">Buy Now</button>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-6 col-sm-12">
+			<div class="card text-white bg-success text-center" style="height: 311.302px;">
+				<div class="card-content">
+					<div class="card-body">
+						<img src="https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/app-assets/images/elements/06.png" alt="element 02" width="225" class="mb-1">
+						<h3 class="card-title">Ceramic Bottle</h3>
+						<p class="card-text">456 items</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-6 col-sm-12">
+			<div class="card text-white bg-danger text-center" style="height: 297.83px;">
+				<div class="card-content">
+					<div class="card-body pt-3">
+						<img src="https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/app-assets/images/elements/14.png" alt="element 03" width="170" class="float-right">
+						<h4 class="card-title mt-3">Brand Minute</h4>
+						<p class="card-text">Donut toffee candy brownie soufflé macaroon.</p>
+						<button class="btn btn-danger btn-darken-3">Buy Now</button>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-6 col-sm-12">
+			<div class="card text-white bg-info text-center" style="height: 297.83px;">
+				<div class="card-content">
+					<img src="https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/app-assets/images/elements/07.png" alt="element 04" width="210" class="float-left mt-3">
+					<div class="card-body pt-3">
+						<h4 class="card-title mt-3">New Arriaval</h4>
+						<p class="card-text">Donut toffee candy brownie soufflé macaroon.</p>
+						<button class="btn btn-info btn-darken-3">Buy Now</button>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-6 col-sm-12">
+			<div class="card text-white bg-warning text-center" style="height: 306.597px;">
+				<div class="card-content">
+					<div class="card-body">
+						<img src="https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/app-assets/images/elements/04.png" alt="element 05" width="250" class="mb-1">
+						<h4 class="card-title">Storage Device</h4>
+						<p class="card-text">945 items</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-6 col-sm-12">
+			<div class="card text-black bg-blue text-center" style="height: 306.597px;">
+				<div class="card-content">
+					<div class="card-body pt-3">
+						<img src="https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/app-assets/images/elements/11.png" alt="element 06" width="190" class="float-right">
+						<h4 class="card-title mt-3">New Arriaval</h4>
+						<p class="card-text">Donut toffee candy brownie soufflé macaroon.</p>
+						<button class="btn btn-blue btn-darken-3 white">Buy Now</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</isdecorate>

@@ -1,0 +1,18 @@
+<form action="" class="login-oauth" method="post" name="login-oauth-form">
+<div class="row">
+<div class="col-6">
+        <a style="border-radius: 10px;" href="${URLUtils.https('Login-OAuthLogin', 'oauthProvider', 'Google', 'oauthLoginTargetEndPoint', pdict.oAuthReentryEndpoint)}" class="btn btn-block btn-outline-primary oauth-google"
+           role="button" aria-pressed="true">
+            ${Resource.msg('button.text.oauth.google', 'login', null)}
+            <i class="fa fa-google" aria-hidden="true"></i>
+        </a>
+    </div>
+    <div class="col-6">
+        <a style="border-radius: 10px;" href="${URLUtils.https('Login-OAuthLogin', 'oauthProvider', 'Facebook', 'oauthLoginTargetEndPoint', pdict.oAuthReentryEndpoint)}" class="btn btn-block btn-outline-primary oauth-facebook"
+           role="button" aria-pressed="true">
+                ${Resource.msg('button.text.oauth.facebook', 'login', null)}
+                <i class="fa fa-facebook-official" aria-hidden="true"></i>
+        </a>
+    </div>
+</div>
+</form>
